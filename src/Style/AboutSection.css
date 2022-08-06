@@ -1,0 +1,50 @@
+.about_section_item {
+    column-gap: 3rem;
+}
+
+.about_section_item p i {
+    color: rgb(249, 168, 38, 0.9);
+    font-size: 1.5rem;
+}
+
+
+@media only screen and (max-width:992px) {
+    .about_section_container h2 {
+        font-size: 1.5rem;
+    }
+
+    .about_section_item {
+        column-gap: 3rem;
+    }
+
+    .about_section_item p {
+        font-size: 0.6rem;
+        margin-bottom: 0px;
+    }
+
+    .section_description i {
+        font-size: 0.8rem !important;
+    }
+}
+
+@media only screen and (max-width:768px) {
+
+
+    .about_section {
+        margin-top: 250px;
+    }
+
+    .about_image {
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width:576px) {
+
+
+    .about_section {
+        margin-top: 280px;
+    }
+
+    
+}

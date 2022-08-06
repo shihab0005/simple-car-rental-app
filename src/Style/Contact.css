@@ -1,0 +1,14 @@
+.contact_btn {
+    padding: 5px 15px;
+    background: #000d6b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.section_description i {
+    font-weight: 700;
+    font-size: 1.3rem;
+    margin-right: 3px;
+}
